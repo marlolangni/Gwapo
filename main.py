@@ -98,7 +98,7 @@ def insert_data():
 
 
 window = tk.Tk()
-window.title("Marlo James Ballaran")
+window.title("Andrian Bonito")
 
 
 search_label = tk.Label(window, text="Final Exam/Output for AppDev", font=("Arial", 30))
